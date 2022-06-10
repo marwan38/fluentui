@@ -2,8 +2,7 @@
 
 exports[`felaRenderer CSS fallback values are rendered 1`] = `
 ".a {
-  color: red;
-  color: blue;
+  color: red, blue;
 }
 
 
